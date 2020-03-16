@@ -1,4 +1,4 @@
   Thiago
  Tamagochi com  arduino
  
- O projeto  usa dois arduinos  para  seu funcionamento,  um com o codigo refernte as imgens do jogo e outro com  o codigo re referer das musicc  se comunicando entre si atraves de  funçoes de  ditalWrite  e digitalRead para a comunicaçao entre as placas
+ O projeto  usa dois arduinos  para  seu funcionamento,  um com o codigo refernte as imgens do jogo e outro com  o codigo re referer das musicc  se comunicando entre si atraves de  funçoes de  digitalWrite  e digitalRead para a comunicaçao entre as placas
